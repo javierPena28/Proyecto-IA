@@ -2,7 +2,7 @@
 
 ![wepik-export-20231202205908qmXl](https://github.com/javierPena28/Proyecto-IA/assets/143100480/a0818a45-81dc-437f-954a-ab93c75235f6)
 
-Javier Andrés Peña Vargas - 2204123 , Santiago Yarce Prince 
+Javier Andrés Peña Vargas - 2204123 , Santiago Yarce Prince - 2204122
 
 Poder disminuir victimas de enfermedades cardiacas 
 
@@ -12,6 +12,6 @@ link dataset: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicator
 
 link colab: https://colab.research.google.com/drive/1FYhpcb6atMO9fevyeqFsRBSAbsjuGp51?usp=sharing
 
-Link video youtube:
+Link video youtube:https://www.youtube.com/watch?v=4KmTj00PkQ0&ab_channel=SantiagoYarcePrince
 
 
